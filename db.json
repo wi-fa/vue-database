@@ -2,13 +2,13 @@
   "events": [
     {
       "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "category": "Development Event",
+      "title": "DevFest",
+      "description": "Google event for developers",
+      "location": "Stockholm",
+      "date": "Dec 2, 2023",
+      "time": "08:30",
+      "organizer": "Google"
     },
     {
       "id": 456,
