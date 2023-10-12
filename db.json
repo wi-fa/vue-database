@@ -1,7 +1,17 @@
 {
   "events": [
     {
-      "id": 123,
+        "id": 1,
+        "category": "School Event",
+        "title": "Arbetsmarknadsdagen",
+        "description": "Arbetsmarknadsdagen riktar sig mot alla våra studerande och är ett utmärkt tillfälle att få inspiration, få faktiska tips på vart ni kan söka LIA någonstans och är en av de bästa möjligheterna att ha dialog direkt med de företag där flera av er kommer få er första anställning.",
+        "location": "IT-Högskolan Stockholm",
+        "date": "October 26, 2023",
+        "time": "10:00",
+        "organizer": "IT-Högskolan"
+    },
+    {
+      "id": 2,
       "category": "Development Event",
       "title": "DevFest",
       "description": "Google event for developers",
@@ -11,7 +21,7 @@
       "organizer": "Google"
     },
     {
-      "id": 456,
+      "id": 3,
       "category": "food",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
@@ -21,7 +31,7 @@
       "organizer": "Fern Pollin"
     },
     {
-      "id": 789,
+      "id": 4,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -29,6 +39,26 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
-    }
+    },
+    {
+        "id": 5,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Fern Pollin"
+    },
+    {
+        "id": 6,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Fern Pollin"
+    },
   ]
 }
