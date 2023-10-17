@@ -1,64 +1,54 @@
 {
-  "events": [
-    {
-        "id": 1,
-        "category": "School Event",
-        "title": "Arbetsmarknadsdagen",
-        "description": "Arbetsmarknadsdagen riktar sig mot alla våra studerande och är ett utmärkt tillfälle att få inspiration, få faktiska tips på vart ni kan söka LIA någonstans och är en av de bästa möjligheterna att ha dialog direkt med de företag där flera av er kommer få er första anställning.",
-        "location": "IT-Högskolan Stockholm",
-        "date": "October 26, 2023",
-        "time": "10:00",
-        "organizer": "IT-Högskolan"
-    },
-    {
-      "id": 2,
-      "category": "Development Event",
-      "title": "DevFest",
-      "description": "Google event for developers",
-      "location": "Stockholm",
-      "date": "Dec 2, 2023",
-      "time": "08:30",
-      "organizer": "Google"
-    },
-    {
-      "id": 3,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "organizer": "Fern Pollin"
-    },
-    {
-      "id": 4,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
-    },
-    {
-        "id": 5,
-        "category": "food",
-        "title": "Community Gardening",
-        "description": "Join us as we tend to the community edible plants.",
-        "location": "Flora City",
-        "date": "March 14, 2022",
-        "time": "10:00",
-        "organizer": "Fern Pollin"
-    },
-    {
-        "id": 6,
-        "category": "food",
-        "title": "Community Gardening",
-        "description": "Join us as we tend to the community edible plants.",
-        "location": "Flora City",
-        "date": "March 14, 2022",
-        "time": "10:00",
-        "organizer": "Fern Pollin"
-    }
-  ]
+    "events": [
+        {
+            "id": 1,
+            "category": "School",
+            "title": "Arbetsmarknadsdagen",
+            "description": "Arbetsmarknadsdagen riktar sig mot alla våra studerande och är ett utmärkt tillfälle att få inspiration, få faktiska tips på vart ni kan söka LIA någonstans och är en av de bästa möjligheterna att ha dialog direkt med de företag där flera av er kommer få er första anställning.",
+            "location": "IT-Högskolan Stockholm",
+            "date": "Oct 26, 2023",
+            "time": "10:00",
+            "organizer": "IT-Högskolan"
+        },
+        {
+            "id": 2,
+            "category": "Events",
+            "title": "DevFest",
+            "description": "Google event for developers",
+            "location": "Stockholm",
+            "date": "Dec 2, 2023",
+            "time": "08:30",
+            "organizer": "Google"
+        },
+        {
+            "id": 3,
+            "category": "Family",
+            "title": "X-mas",
+            "description": "Celebrating x-mas with family and friends.",
+            "location": "Home",
+            "date": "Dec 24, 2023",
+            "time": "16:00",
+            "organizer": "Wife"
+        },
+        {
+            "id": 4,
+            "category": "Family",
+            "title": "Wedding-day",
+            "description": "Celebrating our 3th wedding anniversary",
+            "location": "Somewhere",
+            "date": "Dec 31, 2023",
+            "time": "16:00",
+            "organizer": "Me"
+        },
+        {
+            "id": 5,
+            "category": "Family",
+            "title": "William's birthday",
+            "description": "Celebrating my 30th birthday with family & friends",
+            "location": "Home",
+            "date": "May 30, 2024",
+            "time": "13:00",
+            "organizer": "Wife"
+        }
+    ]
 }
